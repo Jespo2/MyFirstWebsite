@@ -235,7 +235,7 @@ footer p {
         height: auto;
     }
     #logo{
-        width: 100px;
+        width: 40px;
         margin-top: 5px;
     }
     header nav{
@@ -294,7 +294,7 @@ footer p {
 
 @media screen and (max-width: 480px){
     #logo {
-        width: 90px;
+        width: 30px;
         margin-left: 30px;
     }
 
